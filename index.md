@@ -2,7 +2,7 @@
 title: Menu
 ---
 {% assign 1stPost = "./2023-06-30-my-first-post.md" %}
-{% assign 1stPostDate = 1stPost | read_yaml | date: "%B %d, %Y %H:%M %p" %}
+{% assign 1stPostDate = 1stPost | read_yaml | date: "%B %d, %Y %H:%M %p %Z" %}
 
 {% assign 2ndPost = "./2023-06-30-my-second-post.md" %}
 {% assign 2ndPostDate = 2ndPost | read_yaml | date: "%B %d, %Y %H:%M %p" %}
