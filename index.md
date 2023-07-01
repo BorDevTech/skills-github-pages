@@ -7,6 +7,7 @@ Looking good
 
 
 |Title |
+|:-----------|
 |![My First Post](./_posts/2023-06-30-my-first-post.html)|
 |![My Second Post](./_posts/2023-06-30-my-second-post.html)|
 |![My Third Post](./_posts/2023-06-30-my-third-post.html)|
