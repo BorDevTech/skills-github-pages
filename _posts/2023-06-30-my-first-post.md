@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "My First Post"
-date: 2023-06-30 
+date: 2023-06-30 02:45 -0600
 ---
 
 Hello? Does thing work?
