@@ -2,16 +2,16 @@
 title: Menu
 ---
 {% assign 1stPost = "./2023-06-30-my-first-post.md" %}
-{% assign 1stPostDate = 1stPost | read_yaml | date: "%B %d, %Y" %}
+{% assign 1stPostDate = 1stPost | read_yaml | date: "%B %d, %Y %H:%M %p" %}
 
 {% assign 2ndPost = "./2023-06-30-my-second-post.md" %}
-{% assign 2ndPostDate = 2ndPost | read_yaml | date: "%B %d, %Y" %}
+{% assign 2ndPostDate = 2ndPost | read_yaml | date: "%B %d, %Y %H:%M %p" %}
 
 {% assign 3rdPost = "./2023-07-01-my-third-post.md" %}
-{% assign 3rdPostDate = 3rdPost | read_yaml | date: "%B %d, %Y" %}
+{% assign 3rdPostDate = 3rdPost | read_yaml | date: "%B %d, %Y %H:%M %p" %}
 
 {% assign 4thPost = "./2023-07-01-my-4th-post.md" %}
-{% assign 4thPostDate = 4thPost | read_yaml | date: "%B %d, %Y" %}
+{% assign 4thPostDate = 4thPost | read_yaml | date: "%B %d, %Y %H:%M %p" %}
 
 
 
