@@ -21,7 +21,7 @@ Looking good
 
 |Posts | Date|
 |:-        |:-      |
-|[My First Post](./2023-06-30-my-first-post.html)|    {{ 1stPost.date }}|
+|[My First Post](./2023-06-30-my-first-post.html)|    {{ date }}|
 |[My Second Post](./2023-06-30-my-second-post.html)|  {{ 2ndPost.date }}  |
 |[My Third Post](./2023-06-30-my-third-post.html)|  {{ 3rdPost.date }}  |
 |[My Fourth Post](./2023-06-30-my-4th-post.html)|  {{ 4thPost.date }}  |
