@@ -24,4 +24,4 @@ Looking good
 |[My First Post](./2023/06/30/my-first-post.html)|    {{ 1stPostDate }}|
 |[My Second Post](./2023/06/30/my-second-post.html)|  {{ 2ndPostDate }}  |
 |[My Third Post](./2023/07/01/my-third-post.html)|  {{ 3rdPostDate }}  |
-|[My Fourth Post](./2023/07/01/my-4th-post.html)|  {{ 4thPostDate }}  |
+|[My Fourth Post](./2023/07/01/my-fourth-post.html)|  {{ 4thPostDate }}  |
