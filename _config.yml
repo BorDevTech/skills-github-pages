@@ -2,6 +2,6 @@
 title: Github Pages example
 author: BorDev Tech
 description: An example site using Github Pages and Jekyll
-remote_theme: pages-themes/cayman@latest
+remote_theme: pages-themes/cayman@stable
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
